@@ -16,6 +16,9 @@ This project demonstrates the provisioning of users and role-based access contro
  * Ubuntu Server 22.04
  * Kali Linux 2024.2
 
+![image](https://github.com/user-attachments/assets/5476eb27-8d63-41ea-a67a-3ba67062f9e6)
+
+
 [ISOs for the VMs](https://github.com/SMUGLER79/SentriNet---Enterprise-Security-Lab/blob/main/ISO%20files/README.md)
 
 # Tools Used
